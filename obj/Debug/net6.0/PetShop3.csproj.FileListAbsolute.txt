@@ -1,0 +1,14 @@
+C:\Users\jw110\CodeLou\Projects\PetShop3\bin\Debug\net6.0\PetShop3.exe
+C:\Users\jw110\CodeLou\Projects\PetShop3\bin\Debug\net6.0\PetShop3.deps.json
+C:\Users\jw110\CodeLou\Projects\PetShop3\bin\Debug\net6.0\PetShop3.runtimeconfig.json
+C:\Users\jw110\CodeLou\Projects\PetShop3\bin\Debug\net6.0\PetShop3.dll
+C:\Users\jw110\CodeLou\Projects\PetShop3\bin\Debug\net6.0\PetShop3.pdb
+C:\Users\jw110\CodeLou\Projects\PetShop3\obj\Debug\net6.0\PetShop3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jw110\CodeLou\Projects\PetShop3\obj\Debug\net6.0\PetShop3.AssemblyInfoInputs.cache
+C:\Users\jw110\CodeLou\Projects\PetShop3\obj\Debug\net6.0\PetShop3.AssemblyInfo.cs
+C:\Users\jw110\CodeLou\Projects\PetShop3\obj\Debug\net6.0\PetShop3.csproj.CoreCompileInputs.cache
+C:\Users\jw110\CodeLou\Projects\PetShop3\obj\Debug\net6.0\PetShop3.dll
+C:\Users\jw110\CodeLou\Projects\PetShop3\obj\Debug\net6.0\refint\PetShop3.dll
+C:\Users\jw110\CodeLou\Projects\PetShop3\obj\Debug\net6.0\PetShop3.pdb
+C:\Users\jw110\CodeLou\Projects\PetShop3\obj\Debug\net6.0\PetShop3.genruntimeconfig.cache
+C:\Users\jw110\CodeLou\Projects\PetShop3\obj\Debug\net6.0\ref\PetShop3.dll

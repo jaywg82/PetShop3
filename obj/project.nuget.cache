@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "aTvOgWnVzdf5Li6xAuNXGF1naS4i/ZttLusxyWNLlL8+KIX9uUK2JCI2zzP1vTVlQcPNZAHAIoFFzyFi5u7iuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jw110\\CodeLou\\Projects\\PetShop3\\PetShop3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jw110\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.24\\microsoft.windowsdesktop.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\jw110\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.24\\microsoft.netcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\jw110\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.24\\microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\jw110\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.24\\microsoft.netcore.app.host.win-x64.6.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}
